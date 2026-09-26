@@ -11,4 +11,5 @@ h2 { margin-top:0; font-size:1.25rem; color:var(--accent); }
 p, li { line-height:1.55; }
 a { color:var(--accent); }
 nav { text-align:center; margin-top:24px; font-weight:600; }
+nav a { color:rgb(34,37,80); }   /* Lila der Karten – gut lesbar auf dem hellen unteren Verlauf */
 .todo { background:#ffd23e; color:#3a1a00; padding:0 .3em; border-radius:4px; font-weight:700; }
